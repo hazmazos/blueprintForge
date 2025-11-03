@@ -6,7 +6,7 @@
   <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 </head>
 <body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f0f0f0;">
-  <model-viewer src="Toy Brick v3.stl"
+  <model-viewer src="toyBrickv3.stl"
                 alt="Fusion 360 Model"
                 camera-controls
                 auto-rotate
