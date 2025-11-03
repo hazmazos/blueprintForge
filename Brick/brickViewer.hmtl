@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fusion 360 Model Viewer</title>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</head>
+<body style="display:flex;justify-content:center;align-items:center;height:100vh;background:#f0f0f0;">
+  <model-viewer src="Toy Brick v3.stl"
+                alt="Fusion 360 Model"
+                camera-controls
+                auto-rotate
+                style="width:80vw;height:80vh;">
+  </model-viewer>
+</body>
+</html>
